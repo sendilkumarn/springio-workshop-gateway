@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1Z2bD2Gt9Ys6ZFLZMO_wfNUkI3HSlmh3a-3ttkzJz7Pk/edit?usp=sharing
 # gatewayApp
 This application was generated using JHipster 5.0.0-beta.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.0.0-beta.1](https://www.jhipster.tech/documentation-archive/v5.0.0-beta.1).
 
